@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
+  "name": "goit-node-test",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyaShan/goit-node-test.git"
+  },
+  "keywords": [],
+  "author": "Anna Shanaida <anya.shanaida@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anyaShan/goit-node-test/issues"
+  },
+  "homepage": "https://github.com/anyaShan/goit-node-test#readme"
+}
