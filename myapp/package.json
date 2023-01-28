@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node jwt.js"
+    "start": "node multer.js"
   },
   "keywords": [],
   "author": "Anna Shanaida <anya.shanaida@yahoo.com>",
